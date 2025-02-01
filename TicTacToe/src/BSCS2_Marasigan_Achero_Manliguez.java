@@ -1,4 +1,3 @@
-package ticTacToe;
 import java.util.*;
 public class BSCS2_Marasigan_Achero_Manliguez 
 {
