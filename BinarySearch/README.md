@@ -8,3 +8,7 @@
 
 1. Sorts the input array first
 2. Loops the Binary search algorithm
+
+## Output
+
+![](image.png)

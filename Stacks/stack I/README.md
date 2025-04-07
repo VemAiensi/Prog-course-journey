@@ -11,3 +11,7 @@
 - Top
 - Size
 - Empty
+
+## Sample Output
+
+![](image.png)

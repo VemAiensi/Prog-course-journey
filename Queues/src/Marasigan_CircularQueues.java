@@ -1,5 +1,3 @@
-package queues;
-
 import java.util.Scanner;
 
 public class Marasigan_CircularQueues 

@@ -12,6 +12,12 @@
   - East
   - Undefeatable
 
+## Sample Output
+
+> BSCS2_Marasigan_Achero_Manliguez.java
+
+![](image.png)
+
 ### Special Thanks to my Groupmates
 
 - <a href="https://github.com/NorielAchero">Noriel Achero</a>

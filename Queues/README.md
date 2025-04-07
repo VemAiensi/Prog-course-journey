@@ -6,3 +6,7 @@
 
 - Enqueue
 - Dequeue
+
+## Output
+
+![](image.png)

@@ -7,3 +7,7 @@
 - Create text file
 - Read contents from txt
 - Write text in files
+
+## Output
+
+![](image.png)

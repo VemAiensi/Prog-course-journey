@@ -9,6 +9,12 @@
 - Student Grade Book
 - Delete duplicate values in array
 
+## Highlighted Activity
+
+> BSCS2_Marasigan_Achero_Manliguez_Array.java
+
+![](image.png)
+
 ### Special Thanks to my Groupmates
 
 - <a href="https://github.com/NorielAchero">Noriel Achero</a>
