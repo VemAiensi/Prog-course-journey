@@ -17,4 +17,3 @@ public class BookObject
 		bk1.print();
 	}
 }
-

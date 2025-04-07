@@ -4,5 +4,9 @@
 
 ## Objectives
 
-- Create Separte Classes/Objects
+- Create Separate Classes/Objects
 - Access methods from classes
+
+## Sample Output
+
+![](image.png)

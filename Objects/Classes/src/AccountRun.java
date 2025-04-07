@@ -1,4 +1,3 @@
-package object_oriented_programming;
 import java.util.Scanner;
 //Marasigan, Vem Aiensi
 public class AccountRun 
@@ -18,23 +17,16 @@ public class AccountRun
 		account2.balance = 500.53;
 		account2.Show_Balance();
 		
-		System.out.println();
-		
-		System.out.print("Enter withdrawal for " +account1.name + ": ");
+		System.out.print("\nEnter withdrawal for " +account1.name + ": ");
 		account1.withdrawal = scan.nextDouble();
-		System.out.println();
 		account1.debit();
 		account1.Show_Balance();
 		account2.Show_Balance();
-		System.out.println();
 		
-		System.out.print("Enter withdrawal for " +account2.name + ": ");
+		System.out.print("\nEnter withdrawal for " +account2.name + ": ");
 		account2.withdrawal = scan.nextDouble();
-		System.out.println();
 		account2.debit();
 		account1.Show_Balance();
 		account2.Show_Balance();
-		System.out.println();
-		
 	}
 }

@@ -1,4 +1,3 @@
-package object_oriented_programming;
 import java.text.DecimalFormat;
 
 public class Account
@@ -10,7 +9,7 @@ public class Account
 	
 	void debit()
 	{
-		System.out.print("Subtracting " + df.format(this.withdrawal) 
+		System.out.print("\nSubtracting " + df.format(this.withdrawal) 
 		+ " from " + this.name + "'s balance\n");
 		
 		if (this.balance >= this.withdrawal)
@@ -19,7 +18,7 @@ public class Account
 		}
 		else
 		{
-			System.out.println("Debit amount exceeded account balance.");
+			System.out.println("\nDebit amount exceeded account balance.");
 		}
 	}
 	

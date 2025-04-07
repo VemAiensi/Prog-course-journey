@@ -20,7 +20,7 @@ public class MainProgram
 		{
 			//For Student Details
 			System.out.print("Student name: "); //store name in student[0]
-			student[count][0][0] = in.nextLine();			//and so on..
+			student[count][0][0] = in.nextLine();	//and so on..
 			System.out.print("Age: ");
 			student[count][0][1] = in.nextLine();
 			System.out.print("Gender: ");

@@ -5,4 +5,8 @@
 ## Objectives
 
 - Create of Classes/Objects
-- Instanciation of Objects
+- Instantiation of Objects
+
+## Sample Output
+
+![](image.png)
